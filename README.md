@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cătălin-Mihai Lazăr!<br/></h1>
+<h1>Hi there. Welcome to my GitHub profile!<br/></h1>
 
 <h2>Software Development Projects:</h2>
 
