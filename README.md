@@ -1,14 +1,15 @@
-<h2>Software Development Projects:</h2>
+<h2>ML Projects</h2>
 
+  - [RAG pipeline with Azure & Langchain](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
+  - [Simple project with ML-Agents in Unity](https://github.com/mihailazar1/simple-environment-ml-agents)
+  - 
+
+<h2>Software Development Projects:</h2>
 
   - [Virtual Memory Simulator](https://github.com/mihailazar1/Virtual-Memory-Simulator)
   - [Collection of resources for Bible study](https://github.com/mihailazar1/Bible-Study-Resources)
 
-<h2>ML Projects</h2>
 
-- <b>Reinforcement Learning</b>
-  - [Simple project with ML-Agents in Unity](https://github.com/mihailazar1/simple-environment-ml-agents)
-  - 
   
 
 <h2>Connect with me:</h2>
