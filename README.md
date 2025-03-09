@@ -1,12 +1,12 @@
 <h2>ML Projects</h2>
 
-  - [Azure & Langchain RAG pipeline](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
-  - [A project with ML-Agents in Unity](https://github.com/mihailazar1/ml-agents-environment)
+  - [Azure & Langchain RAG Pipeline](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
+  - [A Project with ML-Agents in Unity](https://github.com/mihailazar1/ml-agents-environment)
 
 <h2>Software Development Projects:</h2>
-
+  - [Dockerized Energy Management System using Microservices Architecture](https://github.com/mihailazar1/docker-microservices-project) 
   - [Virtual Memory Simulator](https://github.com/mihailazar1/Virtual-Memory-Simulator)
-  - [Library app for a Christian group](https://github.com/mihailazar1/Bible-Study-Resources)
+  - [Library App for a Christian Group](https://github.com/mihailazar1/Bible-Study-Resources)
 
 
   
