@@ -1,7 +1,7 @@
 <h2>ML Projects</h2>
 
   - [Azure & Langchain RAG pipeline](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
-  - [A roject with ML-Agents in Unity](https://github.com/mihailazar1/ml-agents-environment)
+  - [A project with ML-Agents in Unity](https://github.com/mihailazar1/ml-agents-environment)
 
 <h2>Software Development Projects:</h2>
 
