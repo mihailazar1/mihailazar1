@@ -6,7 +6,7 @@
 <h2>Software Development Projects:</h2>
 
   - [Virtual Memory Simulator](https://github.com/mihailazar1/Virtual-Memory-Simulator)
-  - [Collection of resources for a Christian group](https://github.com/mihailazar1/Bible-Study-Resources)
+  - [Library app for a Christian group](https://github.com/mihailazar1/Bible-Study-Resources)
 
 
   
