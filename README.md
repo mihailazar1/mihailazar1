@@ -13,7 +13,8 @@
 <h2>Connect with me</h2>
 
 
-[<img align="left" alt="Mihai Lazar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mihai Lazar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(1);" />][linkedin]
+
 [<img align="left" alt="Mihai Lazar | Kaggle" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-3628281-3031974.png?f=webp&w=512"/>][kaggle]
 
 
