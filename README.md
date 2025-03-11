@@ -1,7 +1,10 @@
+[<img align="left" alt="Mihai Lazar | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Mihai Lazar | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" />][kaggle]
+
 <h2>ML Projects</h2>
 
   - [Azure & Langchain RAG Pipeline](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
-  - [A Project with ML-Agents in Unity](https://github.com/mihailazar1/ml-agents-environment)
+  - More on [kaggle]
 
 <h2>Software Development Projects</h2>
 
@@ -13,8 +16,7 @@
 <h2>Connect with me</h2>
 
 
-[<img align="left" alt="Mihai Lazar | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="Mihai Lazar | Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" />][kaggle]
+
 
 
 
