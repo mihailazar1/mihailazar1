@@ -14,7 +14,8 @@
 
 
 [<img align="left" alt="Mihai Lazar | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="Mihai Lazar | Kaggle" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-3628281-3031974.png?f=webp&w=512"/>][kaggle]
+[<img align="left" alt="Mihai Lazar | Kaggle" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
+
 
 
 [linkedin]: https://www.linkedin.com/in/mihai-lazar1/
