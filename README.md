@@ -1,14 +1,14 @@
-<h2>ML Projects</h2>
-
-  - [Azure & Langchain RAG Pipeline](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
-  - More on [kaggle]
-
 <h2>Software Development Projects</h2>
 
   - [Dockerized Energy Management System using Microservices Architecture](https://github.com/mihailazar1/docker-microservices-project) 
   - [Virtual Memory Simulator](https://github.com/mihailazar1/Virtual-Memory-Simulator)
   - [Library App for a Christian Group](https://github.com/mihailazar1/Bible-Study-Resources)
-  
+
+<h2>ML Projects</h2>
+
+  - [Azure & Langchain RAG Pipeline](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
+  - More on [kaggle]
+
 
 <h2>Connect with me</h2>
 
