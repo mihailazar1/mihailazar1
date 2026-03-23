@@ -6,6 +6,7 @@
 
 <h2>ML Projects</h2>
 
+  - [Skip-Gram Word2Vec from Zero with Negative Sampling](https://github.com/mihailazar1/Word2Vec-from-Scratch)
   - [Azure & Langchain RAG Pipeline](https://github.com/mihailazar1/Langchain-RAG-Pipeline)
   - More on [kaggle]
 
